@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - I'm a  technical support specialist
 
 - 💼 Open to collaborating on exciting projects.
-- 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/noa-altshuler) or [email](mailto:your-email@example.com).
+- 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/noa-altshuler-9750441b9/).
 
 ## Skills
 
