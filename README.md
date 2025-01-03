@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ### [Project 1: Machine Learning Model](https://github.com/NoaAltshuler/SVM)
 A machine learning project where I developed a model to predict housing prices. Utilized Python and various data analysis libraries to achieve high accuracy.
-### [Project 2: SheetCell](https://github.com/NoaAltshuler/machine-learning-model](https://github.com/orenpartush0/sheet-cell))
+### [Project 2: SheetCell](https://github.com/orenpartush0/sheet-cell)
 The SheetCell project is a comprehensive solution that includes both backend and frontend components, running on a server, and offers various functionalities.
 
 
