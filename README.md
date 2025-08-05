@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - **Languages:** Python, Java, C#,C++,C
 - **Web Development:** HTML, CSS, Node.js
 - **Databases:** MySQL, PostgreSQL, KQL
-- **Tools & Platforms:** Git, GitHub, .Net, Docker, Logs, Anaconda, Kafka Apache, Aws S3, Redash, Grafana, Salesforce.![Uploading image.png…]()
+- **Tools & Platforms:** Git, GitHub, .Net, Docker, Logs, Anaconda, Kafka Apache, Aws S3, Redash, Grafana, Salesforce.
 
 
 ## Projects
