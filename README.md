@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ### [Project 1: SheetCell](https://github.com/orenpartush0/sheet-cell)
 The SheetCell project is a comprehensive solution that includes both backend and frontend components, running on a server, and offers various functionalities.
 ### [Project 2: KafkaBoost](https://github.com/NoaAltshuler/Kafkaboost)
-open-source Kafka optimization tool, where I implemented advanced prioritization and scheduling mechanisms to enhance message processing efficiency, while also providing detailed documentation and architectural planning.![Uploading image.png…]()
+open-source Kafka optimization tool, where I implemented advanced prioritization and scheduling mechanisms to enhance message processing efficiency, while also providing detailed documentation and architectural planning.
 ### [Project 3: GoldMinder](https://github.com/ElizabethAsh/GoldMiner)
 An implementation of the GoldMiner game developed using the ECS architecture and a custom game engine built during the course, designed to deliver efficient gameplay and modularity in game systems. The project showcases the use of entity-based design to enhance scalability and maintainability.
 ### [Project 3: SVM](https://github.com/NoaAltshuler/SVM/tree/master/svm_code)
