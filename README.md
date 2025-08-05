@@ -4,19 +4,19 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## About Me
 
-- 🌱 I’m currently currently studying towards BCs in computer science
-- I'm a  technical support specialist
+- 🌱 I’m finshing BCs in computer science and starting a Master's degree in Computer Science at Ben Gurion University,![Uploading image.png…]()
+- 🌱 I'm a  technical support specialist
 
 - 💼 Open to collaborating on exciting projects.
 - 📫 Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/noa-altshuler-9750441b9/).
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C#,C++,C
-- **Web Development:** HTML, CSS, React, Node.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, Docker, AWS, Azure
-- **Other:** Machine Learning, Data Analysis, Agile Methodologies
+- **Languages:** Python, Java, C#,C++,C
+- **Web Development:** HTML, CSS, Node.js
+- **Databases:** MySQL, PostgreSQL, KQL
+- **Tools & Platforms:** Git, GitHub, .Net, Docker, Logs, Anaconda, Kafka Apache, Aws S3, Redash, Grafana, Salesforce.![Uploading image.png…]()
+
 
 ## Projects
 
@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 A machine learning project where I developed a model to predict housing prices. Utilized Python and various data analysis libraries to achieve high accuracy.
 ### [Project 2: SheetCell](https://github.com/orenpartush0/sheet-cell)
 The SheetCell project is a comprehensive solution that includes both backend and frontend components, running on a server, and offers various functionalities.
+### [Project 3: KafkaBoost](https://github.com/NoaAltshuler/Kafkaboost)
 
 
 
