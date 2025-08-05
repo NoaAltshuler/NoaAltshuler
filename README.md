@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## About Me
 
-- 🌱 I’m finshing BCs in computer science and starting a Master's degree in Computer Science at Ben Gurion University,![Uploading image.png…]()
+- 🌱 I’m finshing BCs in computer science and starting a Master's degree in Computer Science at Ben Gurion University
 - 🌱 I'm a  technical support specialist
 
 - 💼 Open to collaborating on exciting projects.
@@ -25,6 +25,8 @@ A machine learning project where I developed a model to predict housing prices. 
 ### [Project 2: SheetCell](https://github.com/orenpartush0/sheet-cell)
 The SheetCell project is a comprehensive solution that includes both backend and frontend components, running on a server, and offers various functionalities.
 ### [Project 3: KafkaBoost](https://github.com/NoaAltshuler/Kafkaboost)
+open-source Kafka optimization tool, where I implemented advanced prioritization and scheduling mechanisms to enhance message processing efficiency, while also providing detailed documentation and architectural planning.![Uploading image.png…]()
+
 
 
 
